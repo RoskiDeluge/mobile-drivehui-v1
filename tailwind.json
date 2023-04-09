@@ -39,18 +39,22 @@
 			"display": "none"
 		}
 	},
+	"h-64": {
+		"style": {
+			"height": 256
+		}
+	},
+	"h-full": {
+		"style": {
+			"height": "100%"
+		}
+	},
 	"border": {
 		"style": {
 			"borderTopWidth": 1,
 			"borderRightWidth": 1,
 			"borderBottomWidth": 1,
 			"borderLeftWidth": 1
-		}
-	},
-	"text-3xl": {
-		"style": {
-			"fontSize": 30,
-			"lineHeight": 36
 		}
 	},
 	"uppercase": {
